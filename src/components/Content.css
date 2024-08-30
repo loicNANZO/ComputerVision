@@ -1,0 +1,183 @@
+.empty-pane-icon {
+  height: 119px;
+  width: 135px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.left-pane {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 22px 0 20px;
+}
+.login1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.02em;
+  line-height: 100%;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 127px;
+  z-index: 1;
+}
+.login-info {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 16px;
+}
+.span4 {
+  color: #1f86ff;
+}
+.username {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 100%;
+  display: inline-block;
+  min-width: 92px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.background-child2 {
+  height: 52.1px;
+  width: 427px;
+  position: relative;
+  border-radius: 16.66px;
+  border: 1px solid #b4bbc6;
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.enter-your-user {
+  width: 150px;
+  border: 0;
+  outline: 0;
+  font-family: Poppins;
+  font-size: 14.6px;
+  background-color: transparent;
+  height: 15px;
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 100%;
+  color: #b4bbc6;
+  text-align: left;
+  display: inline-block;
+  padding: 0;
+  z-index: 2;
+}
+.background4,
+.input-fields {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.background4 {
+  border-radius: 16.66px;
+  border: 1px solid #b4bbc6;
+  box-sizing: border-box;
+  flex-direction: row;
+  padding: 16px 25px 18px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.input-fields {
+  flex-direction: column;
+  gap: 12.1px;
+}
+.enter-your-password,
+.password {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 100%;
+  display: inline-block;
+}
+.password {
+  min-width: 86px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.enter-your-password {
+  width: 143px;
+  border: 0;
+  outline: 0;
+  font-family: Poppins;
+  font-size: 14.6px;
+  background-color: transparent;
+  height: 15px;
+  color: #a8adb8;
+  text-align: left;
+  padding: 0;
+  z-index: 2;
+}
+.remove-red-eye-icon {
+  height: 20.8px;
+  width: 20.8px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.background5,
+.content,
+.credentials {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.background5 {
+  align-self: stretch;
+  border-radius: 16.66px;
+  border: 1px solid #b4bbc6;
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 16px 19px 12px 25px;
+  flex-shrink: 0;
+  gap: 20px;
+  z-index: 1;
+}
+.content,
+.credentials {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.credentials {
+  align-self: stretch;
+  gap: 25px;
+  font-size: 16px;
+  font-family: Poppins;
+}
+.content {
+  width: 427px;
+  gap: 45px;
+  text-align: left;
+  font-size: 48px;
+  color: #fff;
+  font-family: Manrope;
+}
+@media screen and (max-width: 750px) {
+  .login1 {
+    font-size: 38px;
+    line-height: 38px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .login1 {
+    font-size: 29px;
+    line-height: 29px;
+  }
+  .content {
+    gap: 22px;
+  }
+}

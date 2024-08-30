@@ -1,0 +1,89 @@
+.vector-icon6 {
+  width: 1.25rem;
+  position: relative;
+  height: 1.563rem;
+}
+.vector-container {
+  width: 1.875rem;
+  height: 1.875rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.camera-3 {
+  position: relative;
+  line-height: 1.209rem;
+}
+.frame-parent10 {
+  height: 3.25rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 0;
+}
+.vector-icon7,
+.vector-icon8 {
+  position: absolute;
+  top: 0.125rem;
+  height: 1.438rem;
+}
+.vector-icon7 {
+  left: 4.125rem;
+  width: 1.438rem;
+}
+.vector-icon8 {
+  left: 0;
+  width: 2.375rem;
+}
+.vector-icon9 {
+  position: absolute;
+  top: 0;
+  left: 7.25rem;
+  width: 1.813rem;
+  height: 1.813rem;
+}
+.div4,
+.div5,
+.div6 {
+  position: absolute;
+  top: 2rem;
+  left: 0.813rem;
+  line-height: 1.209rem;
+}
+.div5,
+.div6 {
+  left: 4.313rem;
+}
+.div6 {
+  left: 7.688rem;
+}
+.vector-group {
+  width: 9.063rem;
+  position: absolute;
+  margin: 0 !important;
+  top: 1.75rem;
+  left: 14.938rem;
+  height: 3.25rem;
+  z-index: 1;
+  text-align: center;
+}
+.frame-parent9 {
+  position: absolute;
+  top: 24.688rem;
+  left: calc(50% - 213.5px);
+  width: 26.688rem;
+  height: 6.75rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 1.75rem 2.812rem;
+  box-sizing: border-box;
+  gap: 0.125rem;
+  text-align: left;
+  font-size: 0.806rem;
+  color: #fff;
+  font-family: Poppins;
+}

@@ -1,0 +1,224 @@
+.icdashboard-icon1 {
+  height: 2.5rem;
+  width: 2.5rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.dashboard-menu-item {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 3.437rem;
+}
+.dashboard6 {
+  text-decoration: none;
+  align-self: stretch;
+  position: relative;
+  line-height: 1.25rem;
+  color: inherit;
+}
+.dashboard-menu-item-parent {
+  width: 10.688rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 1.25rem 0 0;
+  box-sizing: border-box;
+  gap: 1.25rem;
+  text-align: center;
+}
+.cameras-menu-icon {
+  height: 2.5rem;
+  width: 2rem;
+  position: relative;
+}
+.cameras-menu-icon-container,
+.health-professional-teamamico {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 0.062rem 0 0;
+}
+.cameras-menu-icon-container {
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 0.062rem;
+}
+.cameras3 {
+  text-decoration: none;
+  position: relative;
+  line-height: 1.069rem;
+  color: inherit;
+  display: inline-block;
+  min-width: 3.813rem;
+}
+.cameras-menu-icon-container-parent,
+.cameras-menu-inner-inner {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cameras-menu-icon-container-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 1.068rem;
+  cursor: pointer;
+}
+.cameras-menu-inner-inner {
+  height: 5.344rem;
+  flex-direction: row;
+  padding: 0 0.125rem;
+  box-sizing: border-box;
+  color: #1f86ff;
+}
+.icrecruitment-icon1 {
+  height: 1.813rem;
+  width: 2.063rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.personnel-menu-item {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 1.187rem 0 0.875rem;
+}
+.personnel2 {
+  position: relative;
+  line-height: 1.209rem;
+  display: inline-block;
+  min-width: 4.125rem;
+}
+.personnel-menu-item-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.55rem;
+  cursor: pointer;
+}
+.icsettings-icon1 {
+  width: 3.75rem;
+  height: 3.75rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.setttings1 {
+  text-decoration: none;
+  align-self: stretch;
+  position: relative;
+  line-height: 1.069rem;
+  color: inherit;
+  display: inline-block;
+  min-width: 3.813rem;
+}
+.icsettings-group {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0.062rem 0 0;
+  gap: 0.537rem;
+  cursor: pointer;
+}
+.cameras-menu-inner-child {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0.125rem;
+  text-align: center;
+}
+.cameras-menu-container,
+.cameras-menu-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cameras-menu-inner {
+  align-self: stretch;
+  gap: 3.5rem;
+}
+.cameras-menu-container {
+  width: 4.125rem;
+  padding: 1.025rem 0 0;
+  box-sizing: border-box;
+}
+.sidebar-background {
+  height: 7.063rem;
+  width: 0.188rem;
+  position: relative;
+  background-color: #1f86ff;
+}
+.cameras-menu-item,
+.cameras-menu-item-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.cameras-menu-item {
+  width: 10.425rem;
+  justify-content: space-between;
+  gap: 1.25rem;
+}
+.cameras-menu-item-wrapper {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 0.062rem;
+}
+.sidebar1 {
+  margin-top: -3.625rem;
+  width: 16.769rem;
+  background-color: #000;
+  border: 1px solid #192242;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4rem 0 9.125rem 3.5rem;
+  gap: 2.475rem;
+  flex-shrink: 0;
+  z-index: 1;
+  text-align: left;
+  font-size: 0.806rem;
+  color: #b2b2b2;
+  font-family: Poppins;
+}
+@media screen and (max-width: 1050px) {
+  .sidebar1 {
+    padding-top: 2.625rem;
+    padding-bottom: 5.938rem;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .sidebar1 {
+    display: none;
+  }
+}
+@media screen and (max-width: 450px) {
+  .sidebar1 {
+    gap: 1.25rem;
+    padding-left: 1.25rem;
+    padding-top: 1.688rem;
+    padding-bottom: 3.875rem;
+    box-sizing: border-box;
+  }
+}

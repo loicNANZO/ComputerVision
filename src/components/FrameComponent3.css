@@ -1,0 +1,222 @@
+.frame-icon {
+  height: 4.938rem;
+  width: 5.625rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 1.937rem 0 1.875rem;
+}
+.smartdsvision {
+  position: relative;
+  line-height: 2.125rem;
+  font-weight: 600;
+}
+.frame-parent2 {
+  margin-left: -2.469rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.687rem;
+  cursor: pointer;
+  font-size: 1.25rem;
+  color: #fff;
+}
+.frame-child4 {
+  width: 6.444rem;
+  height: 3.125rem;
+  margin: 0 !important;
+  position: absolute;
+  top: 5.175rem;
+  left: -0.975rem;
+  z-index: 1;
+}
+.icdashboard-icon {
+  height: 2.5rem;
+  width: 2.5rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icdashboard-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 1rem;
+}
+.dashboard5 {
+  position: relative;
+  line-height: 1.25rem;
+  display: inline-block;
+  min-width: 4.5rem;
+}
+.frame-parent3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.25rem;
+  text-align: center;
+}
+.camera-icon {
+  height: 2.5rem;
+  width: 2rem;
+  position: relative;
+}
+.camera-icon-wrapper,
+.frame-wrapper2 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+}
+.camera-icon-wrapper {
+  align-items: center;
+  justify-content: center;
+  padding: 0 0.062rem 0 0;
+  flex-shrink: 0;
+}
+.frame-wrapper2 {
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 0.062rem;
+}
+.cameras2 {
+  text-decoration: none;
+  position: relative;
+  line-height: 1.069rem;
+  color: inherit;
+  display: inline-block;
+  min-width: 3.813rem;
+  flex-shrink: 0;
+}
+.frame-parent4,
+.frame-wrapper1 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent4 {
+  flex: 1;
+  flex-direction: column;
+  gap: 1.068rem;
+}
+.frame-wrapper1 {
+  height: 5.344rem;
+  flex-direction: row;
+  padding: 0 0.312rem;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.icrecruitment-icon {
+  height: 1.813rem;
+  width: 2.063rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.icrecruitment-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 1.187rem 0 0.875rem;
+}
+.personnel1 {
+  position: relative;
+  line-height: 1.209rem;
+  display: inline-block;
+  min-width: 4.125rem;
+  flex-shrink: 0;
+}
+.frame-parent5,
+.frame-wrapper3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent5 {
+  flex-direction: column;
+  gap: 1.55rem;
+  cursor: pointer;
+}
+.frame-wrapper3 {
+  flex-direction: row;
+  padding: 0 0.187rem;
+  color: #1f86ff;
+}
+.icsettings-icon {
+  width: 3.75rem;
+  height: 3.75rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.setttings {
+  text-decoration: none;
+  align-self: stretch;
+  position: relative;
+  line-height: 1.069rem;
+  color: inherit;
+  display: inline-block;
+  min-width: 3.813rem;
+}
+.icsettings-parent {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 0.062rem 0 0;
+  gap: 0.537rem;
+}
+.frame-parent1,
+.frame-wrapper4,
+.icsettings-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper4 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0.312rem;
+  text-align: center;
+}
+.frame-parent1 {
+  height: 42.938rem;
+  width: 4.5rem;
+  flex-direction: column;
+  padding: 0 0 8.856rem;
+  box-sizing: border-box;
+  position: relative;
+  gap: 3.5rem;
+  cursor: pointer;
+  text-align: left;
+  font-size: 0.806rem;
+  color: #b2b2b2;
+  font-family: Poppins;
+}
+@media screen and (max-width: 1125px) {
+  .frame-parent1 {
+    padding-bottom: 5.75rem;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .smartdsvision {
+    font-size: 1rem;
+    line-height: 1.688rem;
+  }
+  .frame-parent1 {
+    padding-bottom: 3.75rem;
+    box-sizing: border-box;
+  }
+}

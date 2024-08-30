@@ -1,0 +1,64 @@
+.frame-child12 {
+  height: 3.5rem;
+  width: 3.875rem;
+  position: relative;
+  border-radius: 8px;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  display: none;
+}
+.vector-icon17 {
+  height: 1.75rem;
+  width: 1.75rem;
+  position: relative;
+  z-index: 1;
+}
+.frame-wrapper9,
+.rectangle-parent12 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent12 {
+  align-self: stretch;
+  border-radius: 8px;
+  border: 1px solid #fff;
+  flex-direction: row;
+  padding: 0.75rem 1rem;
+}
+.frame-wrapper9 {
+  width: 3.875rem;
+  flex-direction: column;
+  padding: 0.5rem 0 0;
+  box-sizing: border-box;
+}
+.reactive {
+  margin: 0;
+}
+.realtime-anormalie-detection {
+  margin: 0;
+  font-size: 0.875rem;
+}
+.reactive-realtime-anormalie-container {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 148%;
+}
+.frame-parent16 {
+  width: 18.313rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.937rem;
+  text-align: left;
+  font-size: 1.25rem;
+  color: #fff;
+  font-family: Manrope;
+}
+@media screen and (max-width: 450px) {
+  .frame-parent16 {
+    gap: 0.938rem;
+  }
+}

@@ -1,0 +1,104 @@
+.vector-icon2 {
+  width: 1.25rem;
+  position: relative;
+  height: 1.563rem;
+}
+.vector-wrapper {
+  width: 1.875rem;
+  height: 1.875rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.camera-11 {
+  position: relative;
+  line-height: 1.209rem;
+}
+.frame-parent8 {
+  height: 3.25rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 0;
+}
+.vector-icon3,
+.vector-icon4 {
+  position: absolute;
+  top: 0.125rem;
+  height: 1.438rem;
+}
+.vector-icon3 {
+  left: 4.125rem;
+  width: 1.438rem;
+}
+.vector-icon4 {
+  left: 0;
+  width: 2.375rem;
+}
+.vector-icon5 {
+  position: absolute;
+  top: 0;
+  left: 7.25rem;
+  width: 1.813rem;
+  height: 1.813rem;
+}
+.div1,
+.div2,
+.div3 {
+  position: absolute;
+  top: 2rem;
+  left: 0.813rem;
+  line-height: 1.209rem;
+}
+.div2,
+.div3 {
+  left: 4.313rem;
+}
+.div3 {
+  left: 7.688rem;
+}
+.vector-parent {
+  width: 9.063rem;
+  position: absolute;
+  margin: 0 !important;
+  top: 1.75rem;
+  left: 14.938rem;
+  height: 3.25rem;
+  z-index: 1;
+  text-align: center;
+}
+.ellipse-div,
+.frame-parent7 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.ellipse-div {
+  width: 0.563rem;
+  margin: 0 !important;
+  top: 1.875rem;
+  left: 20.25rem;
+  border-radius: 50%;
+  background-color: #ea4137;
+  border: 1px solid #fff;
+  height: 0.563rem;
+  z-index: 2;
+}
+.frame-parent7 {
+  top: 11.188rem;
+  left: calc(50% - 213.5px);
+  background-color: #1f86ff;
+  width: 26.688rem;
+  height: 6.75rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 1.75rem 2.812rem;
+  gap: 0.125rem;
+  text-align: left;
+  font-size: 0.806rem;
+  color: #fff;
+  font-family: Poppins;
+}

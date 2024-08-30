@@ -1,0 +1,52 @@
+.subtract-icon2 {
+  position: relative;
+  width: 26.688rem;
+  height: 10.688rem;
+}
+.div8,
+.notifications {
+  position: absolute;
+  line-height: 1.5rem;
+}
+.notifications {
+  top: 3.063rem;
+  left: 0;
+  font-weight: 600;
+}
+.div8 {
+  top: 0;
+  left: 4.375rem;
+  font-size: 3.25rem;
+  font-weight: 800;
+}
+.group-frame,
+.notifications-parent {
+  position: absolute;
+  width: 7.813rem;
+  height: 4.563rem;
+}
+.notifications-parent {
+  top: 0;
+  left: 0;
+}
+.group-frame {
+  top: 3.813rem;
+  left: 17.188rem;
+}
+.frame-wrapper5,
+.subtract-container {
+  position: absolute;
+  top: 0;
+  width: 26.688rem;
+  height: 10.688rem;
+}
+.subtract-container {
+  left: 0;
+}
+.frame-wrapper5 {
+  left: 29.875rem;
+  text-align: right;
+  font-size: 1.25rem;
+  color: #fff;
+  font-family: Manrope;
+}

@@ -1,0 +1,50 @@
+.smart-ds-vision-inner {
+  height: 4.938rem;
+  width: 5.625rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.smart-ds-vision-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 1.937rem 0 1.875rem;
+}
+.smartdsvision1 {
+  position: relative;
+  line-height: 2.125rem;
+  font-weight: 600;
+}
+.frame-child7 {
+  width: 6.444rem;
+  height: 3.125rem;
+  display: none;
+}
+.sidebar-inner,
+.smart-ds-vision-container-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.smart-ds-vision-container-parent {
+  flex-direction: column;
+  gap: 1.687rem;
+  cursor: pointer;
+}
+.sidebar-inner {
+  flex-direction: row;
+  padding: 0 1.25rem 1.025rem 0;
+  text-align: left;
+  font-size: 1.25rem;
+  color: #fff;
+  font-family: Poppins;
+}
+@media screen and (max-width: 450px) {
+  .smartdsvision1 {
+    font-size: 1rem;
+    line-height: 1.688rem;
+  }
+}

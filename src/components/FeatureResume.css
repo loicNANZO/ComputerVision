@@ -1,0 +1,116 @@
+.feature-item-child {
+  height: 3.5rem;
+  width: 3.875rem;
+  position: relative;
+  border-radius: 8px;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  display: none;
+}
+.feature-icon {
+  height: 1.65rem;
+  width: 1.5rem;
+  position: relative;
+  z-index: 1;
+}
+.feature-item,
+.feature-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.feature-item {
+  align-self: stretch;
+  border-radius: 8px;
+  border: 1px solid #fff;
+  flex-direction: row;
+  padding: 0.812rem 1.125rem;
+}
+.feature-row {
+  width: 3.875rem;
+  flex-direction: column;
+  padding: 0.5rem 0 0;
+  box-sizing: border-box;
+}
+.real-time-detection {
+  margin: 0;
+  font-size: 1.25rem;
+}
+.instantly-detect-and {
+  margin: 0;
+}
+.real-time-detection-instantly-container {
+  height: 5.375rem;
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 148%;
+  display: inline-block;
+}
+.feature-row-parent {
+  width: 17.813rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.875rem;
+  font-size: 0.875rem;
+}
+.group-icon {
+  height: 1.456rem;
+  width: 1.75rem;
+  position: relative;
+  z-index: 1;
+}
+.rectangle-parent13 {
+  align-self: stretch;
+  border-radius: 8px;
+  border: 1px solid #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.875rem 1rem 0.937rem;
+}
+.monitor-employee-activity {
+  margin: 0;
+  font-size: 0.875rem;
+}
+.detailed-activity-tracking-container {
+  height: 5.375rem;
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 148%;
+  display: inline-block;
+  min-width: 9.813rem;
+}
+.feature-resume,
+.frame-parent17 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent17 {
+  flex: 1;
+  justify-content: flex-start;
+  gap: 1.937rem;
+  min-width: 13.563rem;
+}
+.feature-resume {
+  align-self: stretch;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: 1.875rem;
+  text-align: left;
+  font-size: 1.25rem;
+  color: #fff;
+  font-family: Manrope;
+}
+@media screen and (max-width: 450px) {
+  .frame-parent17 {
+    gap: 0.938rem;
+    flex-wrap: wrap;
+  }
+}

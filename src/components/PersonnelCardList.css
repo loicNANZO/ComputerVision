@@ -1,0 +1,56 @@
+.mask-group-icon4 {
+  height: 1.956rem;
+  width: 1.956rem;
+  position: relative;
+  object-fit: contain;
+}
+.fabrice-moukete4 {
+  position: relative;
+  line-height: 1.125rem;
+  font-weight: 500;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #fff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  min-width: 6.25rem;
+}
+.personnel-card-details,
+.personnel-card-list-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.418rem 0 0;
+}
+.personnel-card-list-content {
+  background-color: #00020e;
+  flex-direction: row;
+  padding: 0.462rem 3.062rem 0.468rem;
+  gap: 0.931rem;
+  z-index: 2;
+}
+.fabrice-moukete-wrapper2 {
+  flex-direction: column;
+  padding: 0.412rem 0 0;
+}
+.fabrice-moukete-wrapper2,
+.personnel-card-list,
+.personnel-card-list-content2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.personnel-card-list-content2 {
+  background-color: #00020e;
+  flex-direction: row;
+  padding: 0.468rem 3.062rem 0.462rem;
+  gap: 0.931rem;
+  z-index: 2;
+}
+.personnel-card-list {
+  flex-direction: column;
+  gap: 0.606rem;
+  text-align: left;
+  font-size: 0.744rem;
+  font-family: Poppins;
+}

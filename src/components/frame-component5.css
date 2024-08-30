@@ -1,0 +1,66 @@
+.subtract-icon1 {
+  position: relative;
+  width: 26.688rem;
+  height: 44.063rem;
+}
+.vector-icon10 {
+  position: absolute;
+  height: 33.92%;
+  width: 22.25%;
+  top: 32.75%;
+  right: 70.02%;
+  bottom: 33.33%;
+  left: 7.73%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div7,
+.persons-detected {
+  position: absolute;
+  line-height: 1.5rem;
+}
+.persons-detected {
+  top: 3.063rem;
+  left: 0;
+  font-weight: 600;
+}
+.div7 {
+  top: 0;
+  left: 4.938rem;
+  font-size: 3.25rem;
+  font-weight: 800;
+}
+.group-container,
+.persons-detected-parent {
+  position: absolute;
+  width: 10.625rem;
+  height: 4.563rem;
+}
+.persons-detected-parent {
+  top: 0;
+  left: 0;
+}
+.group-container {
+  top: 3.813rem;
+  left: 14.375rem;
+}
+.frame-parent11,
+.subtract-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 26.688rem;
+  height: 10.688rem;
+  text-align: right;
+  font-size: 1.25rem;
+  font-family: Manrope;
+}
+.frame-parent11 {
+  height: 44.063rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 0.806rem;
+  color: #fff;
+  font-family: Poppins;
+}

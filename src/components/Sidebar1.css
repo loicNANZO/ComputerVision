@@ -1,0 +1,175 @@
+.sidebar-child {
+  width: 3px;
+  position: absolute;
+  margin: 0 !important;
+  top: 651px;
+  left: 265px;
+  background-color: #1f86ff;
+  height: 113px;
+  z-index: 0;
+}
+.smartdsvision3 {
+  position: absolute;
+  top: 106px;
+  left: 0;
+  line-height: 33.84px;
+  font-weight: 600;
+}
+.frame-icon1 {
+  position: absolute;
+  top: 0;
+  left: 30.3px;
+  width: 90px;
+  height: 79px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.group-child4,
+.smartdsvision-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 151px;
+  height: 140px;
+}
+.group-child4 {
+  top: 82.8px;
+  left: 23.9px;
+  width: 103.1px;
+  height: 50px;
+}
+.group-parent1 {
+  width: 151px;
+  position: relative;
+  height: 140px;
+  cursor: pointer;
+  font-size: 20px;
+  color: #fff;
+}
+.icdashboard-icon2 {
+  width: 40px;
+  position: relative;
+  height: 40px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.dashboard7 {
+  align-self: stretch;
+  position: relative;
+  line-height: 19.34px;
+}
+.icdashboard-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 20px;
+  text-align: center;
+}
+.vector-icon18 {
+  width: 32px;
+  position: relative;
+  height: 40px;
+}
+.vector-wrapper2 {
+  position: absolute;
+  top: 0;
+  left: 1.5px;
+  width: 60px;
+  height: 51.3px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.cameras4 {
+  position: absolute;
+  top: 68.4px;
+  left: 0;
+  line-height: 19.34px;
+  display: inline-block;
+  width: 61px;
+  height: 17.1px;
+}
+.frame-parent18 {
+  width: 61.5px;
+  position: relative;
+  height: 85.5px;
+}
+.icrecruitment-icon2 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 19px);
+  width: 33px;
+  height: 29px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.personnel3 {
+  position: absolute;
+  top: 53.8px;
+  left: 0;
+  line-height: 19.34px;
+  display: inline-block;
+  width: 66px;
+  height: 18px;
+}
+.icrecruitment-parent {
+  width: 66px;
+  position: relative;
+  height: 71.8px;
+}
+.icsettings-icon2 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 30.1px);
+  width: 60px;
+  height: 60px;
+  overflow: hidden;
+}
+.setttings2 {
+  position: absolute;
+  top: 68.6px;
+  left: 0;
+  line-height: 19.34px;
+  display: inline-block;
+  width: 61px;
+  height: 17.1px;
+}
+.icsettings-container {
+  width: 61px;
+  position: relative;
+  height: 85.7px;
+  text-align: center;
+  color: #1f86ff;
+}
+.group-parent,
+.sidebar2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.group-parent {
+  width: 72px;
+  justify-content: flex-start;
+  gap: 56px;
+  z-index: 1;
+}
+.sidebar2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #000;
+  border: 1px solid #192242;
+  box-sizing: border-box;
+  width: 268.3px;
+  height: 900px;
+  justify-content: center;
+  padding: 16.1px 0 98.3px;
+  gap: 31px;
+  text-align: left;
+  font-size: 12.9px;
+  color: #b2b2b2;
+  font-family: Poppins;
+}

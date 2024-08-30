@@ -1,0 +1,27 @@
+.button1 {
+  position: relative;
+  font-size: 16px;
+  letter-spacing: -0.02em;
+  line-height: 100%;
+  display: inline-block;
+  font-family: Poppins;
+  color: #fff;
+  text-align: center;
+  min-width: 43px;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 20.1px 20px;
+  background-color: #1f86ff;
+  align-self: stretch;
+  border-radius: 16.66px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  z-index: 1;
+}
+.button:hover {
+  background-color: #38a1ff;
+}
